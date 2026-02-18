@@ -188,8 +188,9 @@ st.markdown(
 Predictions should not be interpreted as clinical or regulatory decisions.
 
 If you use DrugLens-DL in your research, please cite:
-Selvarengan Paranthaman, (2026). DRUGLENS-DL: AN INTEGRATED RULE-BASED AND AI-ASSISTED FRAMEWORK 
-FOR ASSESSING DRUG-LIKENESS. ChemRxiv, https://doi.org/10.26434/chemrxiv.15000196/v1
+
+Selvarengan Paranthaman, (2026). DrugLens-DL: An Integrated Rule-Based And AI-Assisted Framework 
+For Assessing Drug-Likeness. ChemRxiv, https://doi.org/10.26434/chemrxiv.15000196/v1
 
 **Developer & Correspondence**  
 Dr. P. Selvarengan  
